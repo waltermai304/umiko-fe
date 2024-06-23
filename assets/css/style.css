@@ -1,0 +1,21 @@
+:root {
+    --Body-second: #999999;
+    --Title-fashion: #111111;
+    --Background: #FFFFFF;
+    --Key-fashion: #D73F0F;
+    --Body-fashion: #555555;
+    --Lable-Pre-order: #177983;
+    --Label-Sold-Out: #757575
+}
+
+html,
+body {
+    font-family: 'Jost', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style: none;
+}
