@@ -816,6 +816,8 @@ body {
     align-items: flex-start;
     justify-content: flex-start;
     gap: 3px;
+    font-size: 13px;
+    color: #fff;
 }
 
 .img {
@@ -1303,18 +1305,18 @@ body {
     gap: 25px;
 }
 
-.div80{
+.div80 {
     display: flex;
-  	flex-direction: row;
-  	align-items: flex-start;
-  	justify-content: flex-start;
-  	gap: 5px;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 5px;
 }
 
-.div81{
+.div81 {
     width: 392.5px;
-  	position: relative;
-  	height: 350px;
+    position: relative;
+    height: 350px;
 }
 
 .top-links {
